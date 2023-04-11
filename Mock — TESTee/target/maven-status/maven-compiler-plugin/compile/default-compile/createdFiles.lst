@@ -1,0 +1,10 @@
+org\lanit\modelsJson\RequestJSON.class
+org\lanit\modelsJson\Add.class
+org\lanit\modelsJson\ResponseJSON.class
+org\lanit\modelsJson\Info.class
+org\lanit\modelsJson\AlertsItem.class
+org\lanit\modelsJson\RequestJSONDEL.class
+org\lanit\modelsJson\TickersItem.class
+org\lanit\modelsJson\Delete.class
+org\lanit\controllers\JSONController.class
+org\lanit\MyApplication.class

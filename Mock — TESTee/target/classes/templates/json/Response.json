@@ -1,0 +1,35 @@
+{
+  "info": {
+    "userID": "%s",
+    "tickers": [
+      {
+        "ticker": "%s",
+        "alerts": [
+          {
+            "timeframe": 5,
+            "percent": 1
+          },
+          {
+            "timeframe": 10,
+            "percent": 5
+          }
+        ]
+      },
+      {
+        "ticker": "%s",
+        "alerts": [
+          {
+            "timeframe": 60,
+            "percent": 10
+          },
+          {
+            "timeframe": 10,
+            "percent": 5
+          }
+        ]
+      }
+    ]
+  },
+  "uuid": "%s",
+  "lastUpdate": "%s"
+}
